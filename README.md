@@ -18,11 +18,11 @@ So,by practicing it is the best chioce.
 * NOTE : The CCS is taken as inline for this task
 
 here is the output in the webpage
-this is in normal zoom 
+this is in normal zoom.
 
 ![output1](./output_images/task1_1.png)
 
-& and this one is at 25% zoom
+& and this one is at 25% zoom.
 
 ![output2](./output_images/task1_2.png)
 
