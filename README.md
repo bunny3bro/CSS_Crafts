@@ -28,7 +28,7 @@ this is in normal zoom
 
 And This is the ending for task-1
 
-# task2
+# Task-2
 
 it is divided into two tasks.
 
