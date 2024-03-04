@@ -1,6 +1,6 @@
-# CCS_Crafts
+# CSS_Crafts
 
-Hello everyone, This git repo is about sharping your thoughts on CCS.
+Hello everyone, This git repo is about sharping your thoughts on CSS.
 
 for better working, I Like to suggest using live sever and material icon theme 
 
