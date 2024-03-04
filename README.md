@@ -32,4 +32,4 @@ And This is the ending for task-1
 
 it is divided into two tasks.
 
-task2_1 is about the types of stylings and task2_1 is about types of selectors in css
+task2_1 is about the types of stylings and task2_2 is about types of selectors in css.
